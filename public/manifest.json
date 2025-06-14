@@ -1,0 +1,54 @@
+{
+  "name": "MindPulse - AI-Powered Mental Wellness Companion",
+  "short_name": "MindPulse",
+  "description": "Your AI-powered mental wellness companion. Track mood, journal thoughts, practice mindfulness, and chat with AI for personalized mental health support.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e293b",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "categories": ["health", "lifestyle", "wellness"],
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/favicon-16x16.svg",
+      "sizes": "16x16",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon-32x32.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    }
+  ],
+  "features": [
+    "AI Chat Companion",
+    "Mood Tracking",
+    "Journal Writing",
+    "Voice Input",
+    "Mindfulness Exercises",
+    "Progress Tracking"
+  ]
+}
